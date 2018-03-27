@@ -80,6 +80,8 @@
 
    * 描述下图中 table 对象（实体）的属性、table 的 Transform 的属性、 table 的部件
 
+     ![picture](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework1/picture/ch02-homework.png?raw=true)
+
      * table对象的属性：
 
        >tag: Untagged

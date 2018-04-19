@@ -629,5 +629,5 @@
    * 飞碟水平初速度、出现高度、出现间隔均随机
    * 游戏中可以点击Stop按钮终止游戏
    * 游戏结束后可以点击Reset按钮重置游戏
-5. [演示视频（录制软件原因，视频中未显示鼠标）](http://littlefish33.cn:8080/UploadFile/showVideo.jsp)
+5. [演示视频（录制软件原因，视频中未显示鼠标）](http://v.youku.com/v_show/id_XMzU0NzMwMjE2NA==.html?spm=a2h3j.8428770.3416059.1)
 

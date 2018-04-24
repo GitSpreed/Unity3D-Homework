@@ -23,7 +23,6 @@
 1. 新增类PhysicalFlyAction
 
    该类使用刚体组件的属性来定义飞碟的运动
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -77,7 +76,6 @@
 2. 新增类PhysicalActionManager
 
    该类管理具有PhysicalFlyAction动作类的飞碟
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -124,7 +122,6 @@
 3. 新增接口IActionManager
 
    两种动作管理器均要实现该接口
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -142,7 +139,6 @@
    ```
 
 4. 更改CCActionManager代码，增加接口IActionManager的实现
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -257,7 +253,6 @@
    ```
 
 6. 更改CCSenceManager，将原来的成员CCActionManager更改为IActionManager接口
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -383,7 +378,6 @@
 ### 未改变代码
 
 1. Director   导演类，控制场景的转换
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -408,7 +402,6 @@
    ```
 
 2. SceneControl   场景基类，包含所有场景的基本动作
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -421,7 +414,6 @@
    ```
 
 3. CCSceneControlFirst   第一个场景类，负责控制第一个场景的动作
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -541,7 +533,6 @@
    ```
 
 4. DiskFactory   飞碟工厂，负责产生和回收飞碟
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -635,7 +626,6 @@
    ```
 
 5. DiskData   包含飞碟的基本属性
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -651,7 +641,6 @@
    ```
 
 6. ScoreRecorder   积分器，负责记录分数
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -692,7 +681,6 @@
    ```
 
 7. SSActionManeger   动作管理基类，包含基本的动作管理方法
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -761,7 +749,6 @@
    ```
 
 8. SSAction   动作基类，包含一切动作的基本属性
-
    ```c#
        using System.Collections;
        using System.Collections.Generic;
@@ -801,7 +788,6 @@
    ```
 
 9. CCFlyAction   飞行动作类，描述了飞碟飞行的动作
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;
@@ -851,7 +837,6 @@
    ```
 
 10. SSActionCallback   动作与动作管理器的交互接口
-
    ```c#
    using System.Collections;
    using System.Collections.Generic;

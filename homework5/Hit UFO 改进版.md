@@ -864,7 +864,6 @@
    ```
 
 11. SingleTon   所有单例类的模板类
-
     ```c#
     using System.Collections;
     using System.Collections.Generic;

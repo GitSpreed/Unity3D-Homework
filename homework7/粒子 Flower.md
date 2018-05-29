@@ -2,7 +2,7 @@
 
 ### 效果示意图
 
-![IM截图2018053000254](E:\Study\3D游戏编程\homework\homework7\picture\TIM截图20180530002541.png)
+![](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework7/picture/TIM%E6%88%AA%E5%9B%BE20180530002541.png?raw=true)
 
 ### 实现代码
 

@@ -180,4 +180,4 @@ public class Outer : MonoBehaviour {
 
 ### 演示视频
 
-[点击这里查看演示视频]()
+[点击这里查看演示视频](http://littlefish33.cn:8080/UploadFile/showVideo.jsp)

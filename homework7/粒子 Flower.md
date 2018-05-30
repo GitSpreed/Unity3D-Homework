@@ -178,6 +178,6 @@ public class Outer : MonoBehaviour {
 
 
 
-### 演示视频
+### 演示效果
 
-[点击这里查看演示视频](http://littlefish33.cn:8080/UploadFile/showVideo.jsp)
+![演示](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework7/picture/%E5%8A%A8%E6%80%81.gif?raw=true)

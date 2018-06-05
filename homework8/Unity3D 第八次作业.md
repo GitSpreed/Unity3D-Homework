@@ -6,35 +6,35 @@
 
 2. 添加一个预制人物，命名为Ethan，效果如下图所示：
 
-   ![TIM截图20180605222342](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605222342.png)
+   ![TIM截图20180605222342](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605222342.png?raw=true)
 
 3. 给Ethan游戏对象添加画布（Canvas）子对象。
 
 4. 给Canvas添加Slider子对象，对象层次如下：
 
-   ![TIM截图20180605222846](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605222846.png)
+   ![TIM截图20180605222846](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605222846.png?raw=true)
 
 5. 将Slider 子对象Handle Slider Area设置为不可用（disable）：
 
-   ![TIM截图20180605222907](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605222907.png)
+   ![TIM截图20180605222907](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605222907.png?raw=true)
 
 6. 将Background的Color属性设置为黑色：
 
-   ![TIM截图20180605223018](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605223018.png)
+   ![TIM截图20180605223018](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605223018.png?raw=true)
 
 7. 将Fill的Color属性设置为红色：
 
-   ![TIM截图20180605223125](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605223125.png)
+   ![TIM截图20180605223125](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605223125.png?raw=true)
 
    这时，运行发现血条的右边总有一段是黑色的（因为禁用了Handle Slider Area属性，而原本这里是滑动Slider的圆点）
 
 8. 为解决上述问题，设置Fill的Right的属性：
 
-   ![TIM截图20180605223424](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605223424.png)
+   ![TIM截图20180605223424](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605223424.png?raw=true)
 
    此时，血条会随着人物的转动而转动：
 
-   ![TIM截图20180605223711](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605223711.png)
+   ![TIM截图20180605223711](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605223711.png?raw=true)
 
 9. 添加一个脚本，使得血条总是正对屏幕：
 
@@ -86,13 +86,13 @@
 
 4. 对mySkin进行设置，将Horizontal Slider Thumb所有状态下的Background设置为none，将Horizontal Slider所有状态下的Background设置为一张红色的图片。
 
-   ![TIM截图20180605234238](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605234238.png)
+   ![TIM截图20180605234238](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605234238.png?raw=true)
 
-   ![TIM截图20180605234218](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605234218.png)
+   ![TIM截图20180605234218](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605234218.png?raw=true)
 
 5. 将mySkin拖到脚本中
 
-   ![TIM截图20180605234423](E:\Study\3D游戏编程\homework\homework8\picture\TIM截图20180605234423.png)
+   ![TIM截图20180605234423](https://github.com/GitSpreed/Unity3D-Homework/blob/master/homework8/picture/TIM%E6%88%AA%E5%9B%BE20180605234423.png?raw=true)
 
 
 
